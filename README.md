@@ -172,7 +172,5 @@ A execução gera o arquivo `arvore.vtk`, usado na visualização, além de `rai
 Trabalhos desenvolvidos no Departamento de Computação (DECOM) da **Universidade Federal de Ouro Preto (UFOP)**.
 
 - Ana Paula dos Santos Tadim
-- Heitor Augusto de Oliveira Ramos
-- Matheus Maia Amorim
 
 Professor: Rafael Alves Bonfim de Queiroz
