@@ -1,0 +1,9 @@
+# Executáveis
+programa
+minicco1
+
+# Arquivos gerados ao executar
+arvore.vtk
+segmentos.txt
+raio.txt
+execucao.log

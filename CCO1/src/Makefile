@@ -5,7 +5,7 @@ CXX = g++
 CXXFLAGS = -I ../include
 
 # Bibliotecas
-LIBS = -lGL -lGLU -lglut
+LIBS =
 
 # Arquivos fonte
 SRC = $(wildcard *.cpp)
